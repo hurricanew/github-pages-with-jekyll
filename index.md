@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Three essential tips you don't know about gitlens"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Going to talk about tips of gitlens with gifs animation
