@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Web Now Buzz]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://hurricanew.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 19 Jul 2021 13:05:23 GMT</lastBuildDate><item><title><![CDATA[Regular Expression to validate git commit message]]></title><description><![CDATA[Why bother Developer only spend 10 percent of time writing code, the rest is reading. When we want to back track code. It often takes time…]]></description><link>https://hurricanew.github.io/blog/01-validate-commit-msg/</link><guid isPermaLink="false">https://hurricanew.github.io/blog/01-validate-commit-msg/</guid><pubDate>Tue, 06 Jul 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHOTRcQFf/EABkQAAIDAQAAAAAAAAAAAAAAAAEQAAIDEv/aAAgBAQABBQJDOnIhX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAAAEQIGH/2gAIAQEABj8Cgcp//8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFBUf/aAAgBAQABPyFSZHODPqrZ0JCn/9oADAMBAAIAAwAAABCQz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxBsf//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQVFhgf/aAAgBAQABPxAPMYd3Mm8dwCSt75jaBVelyiZu/kt2z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt Text&quot;
+        title=&quot;vs code IDE&quot;
+        src=&quot;/web-now-blog/static/fc0b523a54c29e7f70727716e5c3f551/828fb/html-on-screen.jpg&quot;
+        srcset=&quot;/web-now-blog/static/fc0b523a54c29e7f70727716e5c3f551/ff44c/html-on-screen.jpg 158w,
+/web-now-blog/static/fc0b523a54c29e7f70727716e5c3f551/a6688/html-on-screen.jpg 315w,
+/web-now-blog/static/fc0b523a54c29e7f70727716e5c3f551/828fb/html-on-screen.jpg 630w,
+/web-now-blog/static/fc0b523a54c29e7f70727716e5c3f551/0ede0/html-on-screen.jpg 945w,
+/web-now-blog/static/fc0b523a54c29e7f70727716e5c3f551/3ac88/html-on-screen.jpg 1260w,
+/web-now-blog/static/fc0b523a54c29e7f70727716e5c3f551/857b3/html-on-screen.jpg 6000w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;center&gt;Photo by &lt;a href=&quot;https://unsplash.com/@_imkiran?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Sai Kiran Anagani&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/center&gt;
+&lt;h1&gt;Why bother&lt;/h1&gt;
+&lt;p&gt;Developer only spend 10 percent of time writing code, the rest is reading. When we want to back track code. It often takes time to pick up the context. The best place would be JIRA ticket when this job is assigned.
+If we can track the ticket number in a flash. I mean on a mouse over, that is a tremendous action in now days already. That will make our life more civilized!&lt;/p&gt;
+&lt;h1&gt;What to use&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;vscode&lt;/a&gt; primary IDE&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;vscode extension gitlens&lt;/a&gt; infomation will be shown via inline hint&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/commitizen&quot;&gt;commitizen&lt;/a&gt; gate keeper when you commit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/commitizen/cz-conventional-changelog&quot;&gt;cz-conventional-changelog&lt;/a&gt; commit template&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/validate-commit-msg&quot;&gt;validate-commit-msg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/husky&quot;&gt;husky&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;How&lt;/h1&gt;
+&lt;h4&gt;1. install commitizen&lt;/h4&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;npm i commitizen cz-conventional-changelog husky validate-commit-msg --save-dev&lt;/code&gt;&lt;/p&gt;
+&lt;h4&gt;2. install commitizen&lt;/h4&gt;
+&lt;p&gt;add &lt;code class=&quot;language-text&quot;&gt;&quot;commit&quot;: &quot;git-cz&quot;,&lt;/code&gt; to package.json scirpt block&lt;/p&gt;
+&lt;h4&gt;3. create .czrc file and add path&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+	&quot;path&quot;: &quot;cz-conventional-changelog&quot;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;So that git-cz will use cz-conventional-changelog as default setting.&lt;/p&gt;
+&lt;h4&gt;4. create .vcmrc file and validation message regular expression&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+  &quot;subjectPattern&quot;: &quot;^[a-zA-Z]+-[0-9]+ - .*&quot;,
+  &quot;subjectPatternErrorMsg&quot;: &quot;Subject must include JIRA/Confluence ticket number like &apos;project-123 - your commit message&apos;&quot;,
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;5. create .vcmrc file and validation message regular expression&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+  &quot;subjectPattern&quot;: &quot;^[a-zA-Z]+-[0-9]+ - .*&quot;,
+  &quot;subjectPatternErrorMsg&quot;: &quot;Subject must include JIRA/Confluence ticket number like &apos;project-123 - your commit message&apos;&quot;,
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;6. create .huskyrc file, this is for running commit message validaton after commitizen&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+	&quot;hooks&quot;: {
+		&quot;commit-msg&quot;: &quot;validate-commit-msg&quot;
+	}
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
