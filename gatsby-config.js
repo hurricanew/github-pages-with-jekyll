@@ -1,12 +1,13 @@
 module.exports = {
+  pathPrefix: `/web-now-blog`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Web Now Buzz`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Lucas Wang`,
+      summary: `Melbourne web dev noises`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://hurricanew.github.io/blog/`,
     social: {
       twitter: `kylemathews`,
     },
@@ -118,7 +119,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/web.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
